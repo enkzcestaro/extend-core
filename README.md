@@ -80,7 +80,7 @@ You can use the library directly in the browser via **unpkg** or **jsDelivr**:
 
 via **unpkg**
 ```html
-<script src="https://unpkg.com/extend-core@1.0.0/dist/index.js"></script>
+<script src="https://unpkg.com/extend-core@1.0.0/index.js"></script>
 <script>
   console.log(isBoolean(true)); // true
 </script>
@@ -88,7 +88,7 @@ via **unpkg**
 
 via **jsDelivr**
 ```html
-<script src="https://cdn.jsdelivr.net/npm/extend-core@1.0.0/dist/index.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/extend-core@1.0.0/index.js"></script>
 <script>
   console.log("abcdef".chunk(2)); // ['ab','cd','ef']
 </script>
