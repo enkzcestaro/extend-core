@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<br>
-	<img width="600" src="./assets/extend-core.png" alt="extend-core">
+	<img width="600" src="./assets/extend-core-light.png" alt="extend-core">
 	<br>
 	<hr>
 	<p>
