@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json.schemastore.org/package",
+  "name": "extend-core",
+  "description": "Extend Core is a TypeScript library that provides a collection of utility functions to extend and enhance the functionality of JavaScript's core objects, such as Array, String, Object, Date, Number, JSON, File, Buffer, Function, and Promise. It offers a wide range of methods for common operations like manipulation, transformation, validation, formatting, and more.",
+  "version": "1.0.0",
+
+  "main": "./index.js",
+  "browser": "./index.js",
+  "types": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bes-js/extend-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bes-js/extend-core/issues"
+  },
+  "homepage": "https://discord.gg/luppux",
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://www.buymeacoffee.com/beykant"
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register 'src/**/*.test.ts'",
+    "build": "tsc",
+    "prepare": "husky install",
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix",
+    "prettier": "prettier --write .",
+    "check:types": "tsc --noEmit",
+    "dev": "tsc --watch",
+    "clean": "rm -rf ./dist ./build ./lib"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "library",
+    "extensions",
+    "utilities",
+    "helpers",
+    "extend",
+    "core",
+    "methods",
+    "lodash",
+    "array",
+    "string",
+    "object",
+    "date",
+    "number",
+    "json",
+    "file",
+    "buffer",
+    "function",
+    "promise",
+    "tslib",
+    "esm",
+    "cjs",
+    "ts",
+    "js",
+    "module",
+    "node",
+    "browser"
+  ],
+  "author": {
+    "name": "Bes-js",
+    "url": "https://github.com/Bes-js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^10.0.10"
+  }
+}

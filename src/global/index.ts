@@ -1,0 +1,11 @@
+import './isArray';
+import './isBoolean';
+import './isDate';
+import './isEmpty';
+import './isFunction';
+import './isNil';
+import './isNumber';
+import './isObject';
+import './isPromise';
+import './isString';
+import './isUndefined';
